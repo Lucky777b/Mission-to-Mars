@@ -33,8 +33,7 @@ The final webpage for a desktop webpage is shown below, (Fig. A).
 
 Fig A: Visual of Mission to Mars HTML Page)
 
-![FigA_Mission_to_Mars_HTML_page](https://user-images.githubusercontent.com/104864579/185706596-a63384ed-d193-4ea5-aa5f-4f381cae73ec.png)
-
+![Mission_to_Mars_HTML_page](https://user-images.githubusercontent.com/104864579/185710121-38400cf0-1932-426d-88a2-f4f0ad16b866.png)
 
   Finally, I had to make sure that my webpage was also going to be responsive on a mobile or tablet. To do this, I had to look at the bootstrap grid documentation and add extra code in the class that I set my grid breakpoints for the desktop page, but instead I had to add a similar code that would work on mobile and tablets, as well, for example, 'col-xs-4'. As shown below (Fig. A), I have provided an example of how I refactor the index2.html file to make my webpage both desktop and mobile responsive. 
 
@@ -52,11 +51,12 @@ Then, I checked how it would look on two different phones, a IPhone 12 Pro (Fig.
 
 Fig. D: Mobile Responsive Visual on IPhone12 Pro)
 
-![FigC_mobile_responsive_Iphone12pro](https://user-images.githubusercontent.com/104864579/185707634-45eb3e06-8efc-4358-8bc9-ecae9785ed13.png)
+![mobile_responsive_Iphone12pro](https://user-images.githubusercontent.com/104864579/185710179-5b863175-7ea3-44a7-833d-f3a7361cbceb.png)
 
 Fig. E: Mobile Responsive Visual on Samsung GalaxyS8)
 
-![FigB_mobile_responsive_samsungGS8](https://user-images.githubusercontent.com/104864579/185706719-37d4a3f0-07a4-40af-beb2-6f211d341f2a.png)
+![mobile_responsive_samsungGS8](https://user-images.githubusercontent.com/104864579/185710211-fb6b0113-ec74-44c0-8197-2772bf881366.png)
+
 
 
 
